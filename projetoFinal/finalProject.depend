@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1654566476 source:c:\users\acer\documents\fatec\2º semestre\linguagem de programação\aula12\fatec-project-main\projetofinal\carrinho.c
+	<stdio.h>
+	<stdlib.h>
+	"carrinho.h"
+
+1654566476 c:\users\acer\documents\fatec\2º semestre\linguagem de programação\aula12\fatec-project-main\projetofinal\carrinho.h
+
+1654566476 source:c:\users\acer\documents\fatec\2º semestre\linguagem de programação\aula12\fatec-project-main\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"produto.h"
+	"carrinho.h"
+
+1654566476 c:\users\acer\documents\fatec\2º semestre\linguagem de programação\aula12\fatec-project-main\projetofinal\produto.h
+
+1654566476 source:c:\users\acer\documents\fatec\2º semestre\linguagem de programação\aula12\fatec-project-main\projetofinal\produto.c
+	<stdio.h>
+	<stdlib.h>
+	"produto.h"
+
